@@ -18,10 +18,10 @@
   letter-spacing: 0.04em;
   background-color: #4d5ae5;
   color: #ffffff;
+  cursor: pointer;
 }
 
 .hero-button:hover,
 .hero-button:focus {
   background-color: #404bbf;
-  cursor: pointer;
 }
